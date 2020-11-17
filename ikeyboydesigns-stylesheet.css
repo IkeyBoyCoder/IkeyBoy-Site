@@ -314,6 +314,16 @@ grid-column: 3/4;
             position:relative;
             transition: transform 0.3s ease;
           }
+          .item-8{
+            grid-row: 4/5;
+            grid-column: 1/4;
+            }
+            .item-8:hover{
+              transform: scale(0.8);
+              border-radius: 0px;
+              position:relative;
+              transition: transform 0.3s ease;
+            }
 
 
 /* --- Item Layout END----ART-----> */
