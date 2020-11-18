@@ -185,6 +185,8 @@ body {
   line-height: 165%;
   margin-bottom: 48px;
 }
+
+/* new button color  */
 .info__cta-1 {
   display: inline-block;
   text-decoration: none;
@@ -193,7 +195,7 @@ body {
   font-weight: 700;
   font-size: 0.625rem;
   color: var(--dark001);
-  background-color: #9AD0B0;
+  background-color: #7dc499;
   border-radius: 50px;
   border: 2px solid var(--dark001);
   padding: 16px 48px;
@@ -213,7 +215,7 @@ body {
   color: var(--dark001);
   outline: 5px solid var(--red001);
 }
-
+/* new button color end */
 .info__cta {
   display: inline-block;
   text-decoration: none;
