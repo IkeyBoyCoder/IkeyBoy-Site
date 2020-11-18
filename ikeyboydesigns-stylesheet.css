@@ -170,7 +170,7 @@ body {
   font-family: Open Sans, sans-serif;
   font-weight: 700;
   font-size: 0.625rem;
-  color: var(--dark001);
+  color: var(--light001);
   background-color: #7dc499;
   border-radius: 50px;
   border: 2px solid #7dc499;
@@ -183,6 +183,8 @@ body {
 .info__cta-2:hover {
   background-color: #FFE417;
   color: var(--dark001);
+  border: 2px solid var(--dark001);
+
 }
 
 .info__cta-2:focus,

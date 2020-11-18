@@ -207,6 +207,7 @@ body {
 .info__cta-1:hover {
   background-color: #FFE417;
   color: var(--dark001);
+  border: 2px solid var(--dark001);
 }
 
 .info__cta-1:focus,
