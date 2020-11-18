@@ -195,7 +195,7 @@ body {
   color: var(--dark001);
   background-color: #9AD0B0;
   border-radius: 50px;
-  border: 2px solid #9AD0B0;
+  border: 2px solid var(--dark001);
   padding: 16px 48px;
   transition-property: background-color, color;
   transition-duration: 0.3s;
