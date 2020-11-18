@@ -264,7 +264,10 @@ body {
       grid-template-columns: repeat(3, 2fr);
       grid-template-rows:repeat(3, 1fr);
       grid-gap: 10px 10px;
-    
+      padding-left: 15px;
+      padding-right: 15px; 
+      margin-bottom: 20px;
+      margin-top: 0px;
   }
 
 .item-1{
