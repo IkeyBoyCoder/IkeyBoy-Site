@@ -185,6 +185,34 @@ body {
   line-height: 165%;
   margin-bottom: 48px;
 }
+.info__cta-1 {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Open Sans, sans-serif;
+  font-weight: 700;
+  font-size: 0.625rem;
+  color: var(--light001);
+  background-color: 9AD0B0;
+  border-radius: 50px;
+  border: 2px solid 9AD0B0;
+  padding: 16px 48px;
+  transition-property: background-color, color;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+}
+
+.info__cta-1:hover {
+  background-color: #FFE417;
+  color: var(--dark001);
+}
+
+.info__cta-1:focus,
+.info__cta-1:active {
+  background-color: var(--light001);
+  color: var(--dark001);
+  outline: 5px solid var(--red001);
+}
 
 .info__cta {
   display: inline-block;
