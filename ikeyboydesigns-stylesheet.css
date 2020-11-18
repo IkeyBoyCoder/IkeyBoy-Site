@@ -163,7 +163,7 @@ body {
 }
 
 /* new button color  */
-.info__cta-1 {
+.info__cta-2 {
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
@@ -180,13 +180,13 @@ body {
   transition-timing-function: ease;
 }
 
-.info__cta-1:hover {
+.info__cta-2:hover {
   background-color: #FFE417;
   color: var(--dark001);
 }
 
-.info__cta-1:focus,
-.info__cta-1:active {
+.info__cta-2:focus,
+.info__cta-2:active {
   background-color: var(--light001);
   color: var(--dark001);
   outline: 5px solid var(--red001);
