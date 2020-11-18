@@ -218,7 +218,7 @@ margin-top: 2rem;
   
 }
 
-.column-l{
+.l{
         justify-content: left;
 display: flex;
 columns: 50px 1;
@@ -228,7 +228,7 @@ margin-top: 2.5rem;
 
 
       }
-      .column-p{
+      .p{
         display: flex;
         padding-right: 0px;
         margin-top: 30px;
