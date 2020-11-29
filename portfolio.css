@@ -338,8 +338,7 @@ margin-top: 2.5rem;
     max-width: 100%;
     height: auto;
     transform: scale(0.50);
-    padding-left: 30px;
-   
+    margin-right: -20px;
 }
     
     .column-logo1:hover{
@@ -360,8 +359,7 @@ margin-top: 2.5rem;
     grid-column: 1/2 ;
       max-width: 100%;
       height: auto;
-      padding-right: 30px;
-      
+      margin-left: -20px;
       transform: scale(0.50)
   }
       
