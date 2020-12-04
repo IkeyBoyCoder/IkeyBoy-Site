@@ -19,6 +19,7 @@ images.forEach(image => {
     img.src = image.src
     while(lightbox.firstChild) {
       lightbox.removeChild(lightbox.firstChild)
+      
     }
     lightbox.appendChild(img)
   })
